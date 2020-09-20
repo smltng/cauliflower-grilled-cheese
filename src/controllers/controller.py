@@ -1,4 +1,2 @@
-
-
 def ping():
     return "PONG"
