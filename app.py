@@ -1,3 +1,5 @@
+# This is the entry point for this application
+
 import connexion
 
 options = {"swagger_ui": True}
